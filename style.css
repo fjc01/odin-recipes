@@ -1,0 +1,19 @@
+*{
+    font-family: Verdana, sans-serif;
+}
+
+h1{
+    color: red;
+    text-transform: uppercase;
+    font-family: "Brush Script MT";
+    font-size: 46px;
+}
+
+h2{
+    color: green;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
