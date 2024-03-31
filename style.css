@@ -17,3 +17,21 @@ img{
     width: 500px;
     height: auto;
 }
+
+.menu ul li{
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.menu ul li a{
+    text-decoration: none;
+    color: black;
+    background-color: lightgray;
+    padding: 20px;
+    transition: 0.5s;
+    margin: 0 15px;
+}
+
+.menu ul li a:hover{
+    background-color: orange;
+}
